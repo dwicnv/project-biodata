@@ -1,11 +1,11 @@
 # Definisi variabel
-nama = "Dwi Cahya Novita"
+nama = "ドウィ・チャフヤ・ノヴィタ"
 umur = 21
-hobi = "membaca"
-asal = "Yogyakarta"
+hobi = "読書"
+asal = "ジョグジャカルタ"
 
 # Print 
-print(f"Nama saya adalah {nama}.")
-print(f"Saat ini saya berumur {umur} tahun.")
-print(f"Hobi saya adalah {hobi}.")
-print(f"Saya berasal dari kota {asal}.")
+print(f"私の名前は {nama} です。")
+print(f"現在、私は {umur} 歳です。")
+print(f"私の趣味は {hobi} です。")
+print(f"私は {asal} 出身です。")
