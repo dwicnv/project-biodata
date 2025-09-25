@@ -2,7 +2,7 @@
 nama = "Dwi Cahya Novita"
 umur = 21
 hobi = "membaca"
-asal = "Yogyakarta"
+asal = "Jakarta"
 
 # Print 
 print(f"Nama saya adalah {nama}.")
